@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "123";
+$pass = "BarMoon2025";
 $db   = "moonbar_db";
 
 $conn = new mysqli($host, $user, $pass, $db);
