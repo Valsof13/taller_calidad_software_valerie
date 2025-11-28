@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #120407;
+    color: white;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #df9497;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+
+button {
+    background: #be3e42;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+input,
+select {
+    padding: 10px;
+    width: 100%;
+    margin: 5px 0;
+}
