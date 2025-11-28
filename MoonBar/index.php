@@ -154,12 +154,12 @@ nav .user { color:#ffe; margin-left:6px; }
 <!--CARRUSEL -->
 <div class="carousel-wrap">
   <div class="carousel-track" id="carouselTrack">
-    <div class="carousel-slide"><img src="img/marga.jpg"></div>
-    <div class="carousel-slide"><img src="img/moji.jpg"></div>
-    <div class="carousel-slide"><img src="img/juli.jpg"></div>
-    <div class="carousel-slide"><img src="img/moon.jpg"></div>
-    <div class="carousel-slide"><img src="img/club.jpg"></div>
-    <div class="carousel-slide"><img src="img/alitas.jpg"></div>
+    <div class="carousel-slide"><img src="img/marga.jpg "alt="deliciosa bebida"></div>
+    <div class="carousel-slide"><img src="img/moji.jpg" alt="fusion de sabores unicos"></div>
+    <div class="carousel-slide"><img src="img/juli.jpg" alt="fuerte para los mejores"></div>
+    <div class="carousel-slide"><img src="img/moon.jpg" alt="rica y unica solo en moonbar"></div>
+    <div class="carousel-slide"><img src="img/club.jpg" alt="refrescante para un dia cualquiera"></div>
+    <div class="carousel-slide"><img src="img/alitas.jpg" alt="tan picantes que solo es para los capaces"></div>
   </div>
 
   <button class="carousel-control left" id="prevBtn">&lsaquo;</button>
